@@ -10,8 +10,11 @@ The project focuses on understanding how devices communicate over a network and 
 
 # 🎯 Objectives
 *Understand core networking concepts (IP, DNS, DHCP)
+
 *Learn how devices connect and communicate on a network
+
 *Use Windows command-line tools for troubleshooting
+
 *Build practical IT support skills
 
 # 💻 Tech Stack:
