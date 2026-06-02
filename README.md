@@ -54,7 +54,8 @@ How it connects local networks to the internet
 (Insert screenshot from ipconfig)
 
 
-💻 Practical Command-Line Work
+# 💻 Practical Command-Line Work
+
 Commands used:
 ipconfig
 ipconfig /all
