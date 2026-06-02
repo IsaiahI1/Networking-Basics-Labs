@@ -57,16 +57,27 @@ How it connects local networks to the internet
 # 💻 Practical Command-Line Work
 
 Commands used:
+
 ipconfig
+
 ipconfig /all
+
 ping google.com
+
 nslookup google.com
+
 tracert google.com
+
 🔧 What each command does:
+
 ipconfig → Shows IP configuration
+
 ping → Tests connectivity to a device or website
+
 nslookup → Checks DNS resolution
+
 tracert → Shows the path data takes to a destination
+
 
 📸 Screenshot: Command practice results
 
