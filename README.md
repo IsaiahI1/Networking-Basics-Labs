@@ -17,6 +17,40 @@ The project focuses on understanding how devices communicate over a network and 
 
 *Build practical IT support skills
 
+🌐 Key Networking Concepts
+
+📍 IP Addressing
+What an IP address is
+Why devices need IP addresses
+Difference between public and private IPs
+
+📸 Screenshot: My IP configuration
+
+(Insert screenshot of ipconfig output here)
+
+🌍 DNS (Domain Name System)
+How domain names are translated into IP addresses
+Why DNS is important for browsing the internet
+
+📸 Screenshot: DNS lookup test
+
+(Insert screenshot of nslookup google.com here)
+
+📡 DHCP (Dynamic Host Configuration Protocol)
+How devices automatically receive IP addresses
+Role of DHCP server in a network
+
+📸 Screenshot: DHCP details
+
+(Insert screenshot of ipconfig /all here showing DHCP info)
+
+🚪 Default Gateway
+What a gateway is
+How it connects local networks to the internet
+
+📸 Screenshot: Default gateway information
+
+(Insert screenshot from ipconfig)
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 # 📊 GitHub Stats:
