@@ -1,1 +1,42 @@
+# 🧪 Troubleshooting Practice
 
+# Steps for Troubleshooting
+
+-Identify/Understand the problem
+-Gather information
+-Test Theories
+-Solve the issue
+  -Plan
+  -Impliment
+-Document the solution
+# Tools Used
+
+*Spicework - for ticket lab
+*Virtualbox - for Window Lab
+
+Scenario 1: No Internet Connection
+
+Checked IP address using ipconfig
+Verified DNS settings
+Used ping to test connectivity
+
+Scenario 2: DNS Issue Simulation
+
+Ran nslookup google.com
+Identified name resolution process
+
+📸 Screenshot: Troubleshooting steps
+
+(Insert screenshots of tests and results)
+
+🧠 What I Learned
+
+How devices get connected to a network
+
+How DNS resolves websites
+
+How DHCP assigns IP addresses automatically
+
+How to use command-line tools for troubleshooting
+
+Basic IT support diagnostic process
