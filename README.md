@@ -17,9 +17,10 @@ The project focuses on understanding how devices communicate over a network and 
 
 *Build practical IT support skills
 
-🌐 Key Networking Concepts
+# 🌐 Key Networking Concepts
 
 📍 IP Addressing
+
 What an IP address is
 Why devices need IP addresses
 Difference between public and private IPs
@@ -29,6 +30,7 @@ Difference between public and private IPs
 (Insert screenshot of ipconfig output here)
 
 🌍 DNS (Domain Name System)
+
 How domain names are translated into IP addresses
 Why DNS is important for browsing the internet
 
@@ -37,6 +39,7 @@ Why DNS is important for browsing the internet
 (Insert screenshot of nslookup google.com here)
 
 📡 DHCP (Dynamic Host Configuration Protocol)
+
 How devices automatically receive IP addresses
 Role of DHCP server in a network
 
@@ -45,6 +48,7 @@ Role of DHCP server in a network
 (Insert screenshot of ipconfig /all here showing DHCP info)
 
 🚪 Default Gateway
+
 What a gateway is
 How it connects local networks to the internet
 
