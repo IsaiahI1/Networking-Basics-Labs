@@ -1,4 +1,4 @@
-# 📘 Networking Basics Lab
+ # 📘 Networking Basics Lab
 # 📌 Overview
 
 This repository documents my learning and hands-on practice with fundamental networking concepts as part of my journey toward becoming an IT Support Technician and Cloud Engineer.
@@ -71,30 +71,7 @@ tracert → Shows the path data takes to a destination
 
 (Insert screenshots of each command output here)
 
-🧪 Troubleshooting Practice
-Scenario 1: No Internet Connection
-Checked IP address using ipconfig
-Verified DNS settings
-Used ping to test connectivity
-Scenario 2: DNS Issue Simulation
-Ran nslookup google.com
-Identified name resolution process
 
-📸 Screenshot: Troubleshooting steps
-
-(Insert screenshots of tests and results)
-
-🧠 What I Learned
-
-How devices get connected to a network
-
-How DNS resolves websites
-
-How DHCP assigns IP addresses automatically
-
-How to use command-line tools for troubleshooting
-
-Basic IT support diagnostic process
 
 🚀 Next Steps
 
