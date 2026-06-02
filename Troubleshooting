@@ -1,8 +1,10 @@
-# 🧪 Troubleshooting Practice
+# IT Suppport Virtual Lab
+
+This repository documents my hands-on IT support ticketing lab using Spiceworks Help Desk. The project focuses on troubleshooting common technical issues, documenting resolutions, and developing skills in ticket management, networking, and customer support.
 
 # Steps for Troubleshooting
 
--Identify/Understand the problem
+-Identify/Un derstand the problem
 -Gather information
 -Test Theories
 -Isolate the cause
@@ -11,7 +13,9 @@
   -Impliment
 -Document the solution
 
-# Tools Used
+# 🧪 Troubleshooting Practice
+
+## Tools Used
 
 *Spicework - for ticket lab
 *Virtualbox - for Window Lab
