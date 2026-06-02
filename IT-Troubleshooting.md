@@ -4,31 +4,44 @@ This repository documents my hands-on IT support ticketing lab using Spiceworks 
 
 # Steps for Troubleshooting
 
--Identify/Un derstand the problem
+-Identify/Understand the problem
+
 -Gather information
+
 -Test Theories
+
 -Isolate the cause
+
 -Solve the issue
+
   -Plan
+  
   -Impliment
+  
 -Document the solution
+
 
 # 🧪 Troubleshooting Practice
 
 ## Tools Used
 
 *Spicework - for ticket lab
+
 *Virtualbox - for Window Lab
 
 Scenario 1: No Internet Connection
 
 Checked IP address using ipconfig
+
 Verified DNS settings
+
 Used ping to test connectivity
+
 
 Scenario 2: DNS Issue Simulation
 
 Ran nslookup google.com
+
 Identified name resolution process
 
 📸 Screenshot: Troubleshooting steps
