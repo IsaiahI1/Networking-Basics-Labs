@@ -1,6 +1,3 @@
-# Networking-Basics-Labs
-# 💫 About Me:
-I am a student documenting my foundational learning in computer networking as part of my journey toward becoming an IT Support Technician and Cloud Engineer.
 # 📘 Networking Basics Lab
 # 📌 Overview
 
