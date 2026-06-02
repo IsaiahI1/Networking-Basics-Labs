@@ -55,14 +55,71 @@ How it connects local networks to the internet
 📸 Screenshot: Default gateway information
 
 (Insert screenshot from ipconfig)
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Isaiah1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Isaiah1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Isaiah1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
+💻 Practical Command-Line Work
+Commands used:
+ipconfig
+ipconfig /all
+ping google.com
+nslookup google.com
+tracert google.com
+🔧 What each command does:
+ipconfig → Shows IP configuration
+ping → Tests connectivity to a device or website
+nslookup → Checks DNS resolution
+tracert → Shows the path data takes to a destination
+
+📸 Screenshot: Command practice results
+
+(Insert screenshots of each command output here)
+
+🧪 Troubleshooting Practice
+Scenario 1: No Internet Connection
+Checked IP address using ipconfig
+Verified DNS settings
+Used ping to test connectivity
+Scenario 2: DNS Issue Simulation
+Ran nslookup google.com
+Identified name resolution process
+
+📸 Screenshot: Troubleshooting steps
+
+(Insert screenshots of tests and results)
+
+🧠 What I Learned
+
+How devices get connected to a network
+
+How DNS resolves websites
+
+How DHCP assigns IP addresses automatically
+
+How to use command-line tools for troubleshooting
+
+Basic IT support diagnostic process
+
+🚀 Next Steps
+
+Build Active Directory Home Lab
+Learn Windows Server basics
+Practice user account management
+Expand troubleshooting skills
+
+📁 Author
+
+Aspiring IT Support Technician & Cloud Engineer
+Focus: Networking, Microsoft Azure, and IT Infrastructure
+
+⚡ Pro tip (important)
+
+When you upload screenshots:
+
+Put them in a folder called screenshots/
+Name them clearly:
+ipconfig.png
+dns-lookup.png
+troubleshooting.png
 [![](https://komarev.com/ghpvc/?username=Isaiah1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
